@@ -31,3 +31,4 @@ jobs:
         with:
           COMMIT_MSG: "chore: update README with latest activity"
           MAX_LINES: 10
+          USERNAME: "ShlokBajaj3433"
