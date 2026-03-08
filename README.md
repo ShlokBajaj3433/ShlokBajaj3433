@@ -90,7 +90,6 @@ I work on web apps and backend systems — from accessibility-first transit tool
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShlokBajaj3433&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShlokBajaj3433&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&bg_color=0d1117)
 
 ### 🗣️ Most Used Languages
 
@@ -108,30 +107,24 @@ I work on web apps and backend systems — from accessibility-first transit tool
 
 [![Shlok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShlokBajaj3433&theme=github-dark&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShlokBajaj3433&theme=darkhub&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 **Public repos:** 13 | **Followers:** 5 | **Following:** 9
 
-## 📝 Recent Activity
+## ⚡ Recent Activity
 
-<details>
-<summary><b>Click to expand recent GitHub events</b></summary>
+<div align="center">
 
-- 🧑‍🤝‍🧑 **MemberEvent:** Added to repository JanmeshRAUT/Vulnerable-Website — *Feb 16, 2026*
-- ⬆️ **PushEvent:** Pushed to transit-accessibility-app (main) — *Feb 15, 2026*
-- ⬆️ **PushEvent:** Pushed to Java_Placement_Prep (main) — *Feb 15, 2026*
-- ⬆️ **PushEvent:** Pushed to Java_Placement_Prep (main) — *Feb 15, 2026*
-- ⚙️ **PushEvent:** Pushed to Microservices-SpringBoot (main) — *Feb 14, 2026*
-- 🌐 **PublicEvent:** Publicized repository Java_Placement_Prep — *Feb 14, 2026*
-- ⬆️ **PushEvent:** Pushed to Microservices-SpringBoot (main) — *Feb 11, 2026*
-- 🌿 **CreateEvent:** Created branch ADT23SOCB1608 on ashvinigjadhav/TYCORE2026 — *Feb 11, 2026*
-- ⬆️ **PushEvent:** Pushed to ashvinigjadhav/TYCORE2026 (main) — *Feb 09, 2026*
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     🕐 LATEST GITHUB EVENTS                     │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-</details>
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -149,7 +142,6 @@ Currently building in public! 🚧
 - 💻 [LeetCode Profile](https://leetcode.com/u/shlokpbajaj000/) — Practice algorithms and data structures
 - 💼 [LinkedIn](https://www.linkedin.com/in/shlok-bajaj/) — Professional network
 
----
 
 ---
 
