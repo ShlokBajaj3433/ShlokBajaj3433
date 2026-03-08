@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Shlok Bajaj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Java+%7C+JavaScript+%7C+TypeScript;Building+Accessible+Solutions;36%2C398+Contributions+%26+Counting!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Java+%7C+JavaScript+%7C+TypeScript;Building+Accessible+Solutions" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/ShlokBajaj3433?style=for-the-badge&logo=github&logoColor=white&labelColor=2b3137&color=success)](https://github.com/ShlokBajaj3433)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-bajaj/)
@@ -84,47 +84,33 @@ I work on web apps and backend systems — from accessibility-first transit tool
 
 ## GitHub Stats
 
-## GitHub Stats 📊
-
 <div align="center">
-
-### 🔥 Contribution Highlights
-
-<table>
-  <tr>
-    <td align="center">
-      <h3>36,398</h3>
-      <p>Total Contributions</p>
-      <sub>Since Jan 2, 2011</sub>
-    </td>
-    <td align="center">
-      <h3>🔥 59 Days</h3>
-      <p>Current Streak</p>
-      <sub>Dec 19, 2025 - Feb 15, 2026</sub>
-    </td>
-    <td align="center">
-      <h3>🏆 98 Days</h3>
-      <p>Longest Streak</p>
-      <sub>May 20 - Aug 25, 2025</sub>
-    </td>
-  </tr>
-</table>
 
 ### 📈 GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShlokBajaj3433&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShlokBajaj3433&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShlokBajaj3433&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShlokBajaj3433&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&bg_color=0d1117)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlokBajaj3433&layout=compact&theme=radical&hide_border=true&langs_count=8)
+### 🗣️ Most Used Languages
+
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShlokBajaj3433&theme=github_dark)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShlokBajaj3433&theme=github_dark)
+
+### 📊 Profile Summary
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShlokBajaj3433&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShlokBajaj3433&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShlokBajaj3433&theme=github_dark&utcOffset=5.5)
 
 ### 📊 Contribution Graph
 
-[![Shlok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShlokBajaj3433&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shlok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShlokBajaj3433&theme=github-dark&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShlokBajaj3433&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShlokBajaj3433&theme=darkhub&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
