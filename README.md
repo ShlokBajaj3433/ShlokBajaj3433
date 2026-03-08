@@ -115,11 +115,7 @@ I work on web apps and backend systems — from accessibility-first transit tool
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     🕐 LATEST GITHUB EVENTS                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=60&section=header&text=🕐%20LATEST%20GITHUB%20EVENTS&fontSize=22&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="700" alt="Latest GitHub Events" />
 
 </div>
 
@@ -169,7 +165,7 @@ Currently building in public! 🚧
 
 ---
 
-**⭐️ From [ShlokBajaj3433](https://github.com/ShlokBajaj3433) | Currently working on: transit-accessibility-app & Java microservices**
+**⭐️ From [ShlokBajaj3433](https://github.com/ShlokBajaj3433) | Currently working on: Java microservices**
 
 *Learning: Advanced Spring Boot patterns and TypeScript best practices* 📚
 
