@@ -120,14 +120,14 @@ I work on web apps and backend systems — from accessibility-first transit tool
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/3) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
-2. 💪 Opened PR [#3](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/3) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
-3. 🎉 Merged PR [#2](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/2) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
-4. 💪 Opened PR [#2](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/2) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
-5. 🎉 Merged PR [#1](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/1) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
-6. 💪 Opened PR [#1](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/1) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
-7. 🎉 Merged PR [#1](https://github.com/ShlokBajaj3433/Meal-subscription-service/pull/1) in [ShlokBajaj3433/Meal-subscription-service](https://github.com/ShlokBajaj3433/Meal-subscription-service)
-8. 🎉 Merged PR [#1](https://github.com/ShlokBajaj3433/ShlokBajaj3433/pull/1) in [ShlokBajaj3433/ShlokBajaj3433](https://github.com/ShlokBajaj3433/ShlokBajaj3433)
+1. 💪 Opened PR [#1](https://github.com/swarajshelar23/Sentinel/pull/1) in [swarajshelar23/Sentinel](https://github.com/swarajshelar23/Sentinel)
+2. 🎉 Merged PR [#3](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/3) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
+3. 💪 Opened PR [#3](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/3) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
+4. 🎉 Merged PR [#2](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/2) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
+5. 💪 Opened PR [#2](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/2) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
+6. 🎉 Merged PR [#1](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/1) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
+7. 💪 Opened PR [#1](https://github.com/ShlokBajaj3433/Microservices-SpringBoot/pull/1) in [ShlokBajaj3433/Microservices-SpringBoot](https://github.com/ShlokBajaj3433/Microservices-SpringBoot)
+8. 🎉 Merged PR [#1](https://github.com/ShlokBajaj3433/Meal-subscription-service/pull/1) in [ShlokBajaj3433/Meal-subscription-service](https://github.com/ShlokBajaj3433/Meal-subscription-service)
 9. 💪 Opened PR [#1](https://github.com/ShlokBajaj3433/ShlokBajaj3433/pull/1) in [ShlokBajaj3433/ShlokBajaj3433](https://github.com/ShlokBajaj3433/ShlokBajaj3433)
 10. 🎉 Merged PR [#4](https://github.com/swarajshelar23/StudySync-Task_Manager/pull/4) in [swarajshelar23/StudySync-Task_Manager](https://github.com/swarajshelar23/StudySync-Task_Manager)
 <!--END_SECTION:activity-->
