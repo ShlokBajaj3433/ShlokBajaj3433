@@ -121,7 +121,7 @@ I work on web apps and backend systems — from accessibility-first transit tool
 </div>
 
 <!--START_SECTION:activity-->
-<!-- The recent activity below is automatically updated by a GitHub Action. Do not edit manually. -->
+1. 🎉 Merged PR [#1](https://github.com/swarajshelar23/Sentinel/pull/1) in [swarajshelar23/Sentinel](https://github.com/swarajshelar23/Sentinel)
 <!--END_SECTION:activity-->
 > ℹ️ This section is updated automatically every 12 hours by [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity). Latest public GitHub events will appear here.
 
