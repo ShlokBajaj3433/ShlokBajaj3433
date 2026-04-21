@@ -1,0 +1,23 @@
+# This workflow updates the Recent Activity section in your README.md using the Readme-Workflows/recent-activity GitHub Action
+# It runs every 12 hours and on push to main
+name: Update Recent Activity in README
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+      - name: Update Recent Activity
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 10

@@ -30,7 +30,7 @@ Focused on Java, JavaScript, and TypeScript ecosystems with a strong interest in
 
 I work on web apps and backend systems — from accessibility-first transit tools to microservices and developer tooling. Highlights include an accessibility-focused transit app fork, a TypeScript chat bot, Java placement prep projects, and Spring Boot microservice experiments. I enjoy collaborating on open-source, learning modern backend patterns, and improving developer experience.
 
-🔭 **Currently working on:** transit-accessibility-app and strengthening Java microservices skills.
+🔭 **Currently working on:** strengthening Java microservices skills.
 
 💬 **Open to:** collaborations, mentorship, and interesting projects. Feel free to reach out!
 
@@ -41,16 +41,16 @@ I work on web apps and backend systems — from accessibility-first transit tool
 <div align="center">
 
 ### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Tools & Platforms
@@ -58,7 +58,9 @@ I work on web apps and backend systems — from accessibility-first transit tool
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" alt="Burp Suite" width="90" style="vertical-align:middle; margin-right: 8px;"/>
 
 </div>
 
@@ -70,10 +72,9 @@ I work on web apps and backend systems — from accessibility-first transit tool
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **⚙️ Microservices-SpringBoot** | Spring Boot microservices examples and experiments | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | [Repo](https://github.com/ShlokBajaj3433/Microservices-SpringBoot) |
 | **🤖 Viva-Chat-Bot** | A TypeScript chat-bot with deployed demo on Vercel | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white) | ⭐ 1 · [Demo](https://viva-chat-bot.vercel.app) · [Repo](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) |
 | **♿ transit-accessibility-app** | Accessibility-first transit platform helping people with disabilities navigate public transport | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) | [Repo](https://github.com/ShlokBajaj3433/transit-accessibility-app) |
-| **📚 Java_Placement_Prep** | Java interview problems and placement preparation | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | [Repo](https://github.com/ShlokBajaj3433/Java_Placement_Prep) |
-| **⚙️ Microservices-SpringBoot** | Spring Boot microservices examples and experiments | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | [Repo](https://github.com/ShlokBajaj3433/Microservices-SpringBoot) |
 | **✍️ BloggingApp** | Blogging application built with React and Appwrite | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | [Repo](https://github.com/ShlokBajaj3433/BloggingApp) |
 
 📌 **Note:** Visit the repositories to explore code, demos, and setup instructions.
@@ -120,37 +121,11 @@ I work on web apps and backend systems — from accessibility-first transit tool
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ShlokBajaj3433/ShlokBajaj3433/pull/1) in [ShlokBajaj3433/ShlokBajaj3433](https://github.com/ShlokBajaj3433/ShlokBajaj3433)
-2. 💪 Opened PR [#1](https://github.com/ShlokBajaj3433/ShlokBajaj3433/pull/1) in [ShlokBajaj3433/ShlokBajaj3433](https://github.com/ShlokBajaj3433/ShlokBajaj3433)
-3. 🎉 Merged PR [#7](https://github.com/swarajshelar23/StudySync-Task_Manager/pull/7) in [swarajshelar23/StudySync-Task_Manager](https://github.com/swarajshelar23/StudySync-Task_Manager)
-4. 💪 Opened PR [#7](https://github.com/swarajshelar23/StudySync-Task_Manager/pull/7) in [swarajshelar23/StudySync-Task_Manager](https://github.com/swarajshelar23/StudySync-Task_Manager)
-5. 🎉 Merged PR [#6](https://github.com/swarajshelar23/StudySync-Task_Manager/pull/6) in [swarajshelar23/StudySync-Task_Manager](https://github.com/swarajshelar23/StudySync-Task_Manager)
-6. 💪 Opened PR [#6](https://github.com/swarajshelar23/StudySync-Task_Manager/pull/6) in [swarajshelar23/StudySync-Task_Manager](https://github.com/swarajshelar23/StudySync-Task_Manager)
-7. 🎉 Merged PR [#5](https://github.com/swarajshelar23/StudySync-Task_Manager/pull/5) in [swarajshelar23/StudySync-Task_Manager](https://github.com/swarajshelar23/StudySync-Task_Manager)
-8. 💪 Opened PR [#5](https://github.com/swarajshelar23/StudySync-Task_Manager/pull/5) in [swarajshelar23/StudySync-Task_Manager](https://github.com/swarajshelar23/StudySync-Task_Manager)
-9. 🎉 Merged PR [#4](https://github.com/swarajshelar23/StudySync-Task_Manager/pull/4) in [swarajshelar23/StudySync-Task_Manager](https://github.com/swarajshelar23/StudySync-Task_Manager)
-10. 💪 Opened PR [#4](https://github.com/swarajshelar23/StudySync-Task_Manager/pull/4) in [swarajshelar23/StudySync-Task_Manager](https://github.com/swarajshelar23/StudySync-Task_Manager)
+<!-- The recent activity below is automatically updated by a GitHub Action. Do not edit manually. -->
 <!--END_SECTION:activity-->
+> ℹ️ This section is updated automatically every 12 hours by [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity). Latest public GitHub events will appear here.
 
 ---
-
-## ✍️ Latest Blog Posts
-
-Currently building in public! 🚧
-
-📝 **Interested in technical writing?** Consider starting a blog on:
-- [Dev.to](https://dev.to) — Developer community platform
-- [Medium](https://medium.com) — Publishing platform
-- [Hashnode](https://hashnode.com) — Blogging for developers
-- **GitHub Pages** — Host your own blog
-
-🔗 **My Coding Profiles:**
-- 💻 [LeetCode Profile](https://leetcode.com/u/shlokpbajaj000/) — Practice algorithms and data structures
-- 💼 [LinkedIn](https://www.linkedin.com/in/shlok-bajaj/) — Professional network
-
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
