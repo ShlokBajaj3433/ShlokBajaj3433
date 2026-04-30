@@ -74,6 +74,8 @@ I work on web apps and backend systems — from accessibility-first transit tool
 |---------|-------------|------------|-------|
 | **⚙️ Microservices-SpringBoot** | Spring Boot microservices examples and experiments | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | [Repo](https://github.com/ShlokBajaj3433/Microservices-SpringBoot) |
 | **🤖 Viva-Chat-Bot** | A TypeScript chat-bot with deployed demo on Vercel | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white) | ⭐ 1 · [Demo](https://viva-chat-bot.vercel.app) · [Repo](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) |
+| **🧾 Invoice Generation** | Invoice generation project for creating and managing invoices | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | [Repo](https://github.com/ShlokBajaj3433/Invoice-Generation) |
+| **🍱 Meal Subscription** | Meal subscription project for subscription-based meal management | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) | [Repo](https://github.com/ShlokBajaj3433/meal-subscription) |
 | **♿ transit-accessibility-app** | Accessibility-first transit platform helping people with disabilities navigate public transport | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) | [Repo](https://github.com/ShlokBajaj3433/transit-accessibility-app) |
 | **✍️ BloggingApp** | Blogging application built with React and Appwrite | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | [Repo](https://github.com/ShlokBajaj3433/BloggingApp) |
 
