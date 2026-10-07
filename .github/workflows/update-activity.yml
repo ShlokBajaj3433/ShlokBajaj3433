@@ -1,24 +1,50 @@
-# This workflow updates the Recent Activity section in your README.md using the Readme-Workflows/recent-activity GitHub Action
-# It runs every 12 hours and can also be triggered manually
 name: Update Recent Activity in README
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    # Poll activity across all public repositories every 30 minutes.
+    - cron: '17,47 * * * *'
   workflow_dispatch:
+  # Refresh after every push to this profile repository.
+  push:
 
 permissions:
   contents: write
 
+concurrency:
+  group: readme-recent-activity
+  cancel-in-progress: false
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    timeout-minutes: 5
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4
-      - name: Update Recent Activity
-        uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Checkout repository
+        uses: actions/checkout@v6
         with:
-          GH_USERNAME: ShlokBajaj3433
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Update Recent Activity
+        uses: actions/github-script@v8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          retries: 3
+          script: |
+            const updateActivity = require('./.github/scripts/update-activity.cjs');
+            await updateActivity({ github, context, core });
+
+      - name: Commit activity updates
+        env:
+          TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No recent activity changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update recent GitHub activity"
+          git pull --rebase origin "$TARGET_BRANCH"
+          git push origin "HEAD:$TARGET_BRANCH"

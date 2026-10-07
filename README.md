@@ -101,14 +101,12 @@ I work on web apps and backend systems — from accessibility-first transit tool
 
 ### 📊 Profile Summary
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShlokBajaj3433&theme=github_dark)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShlokBajaj3433&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShlokBajaj3433&theme=github_dark&utcOffset=5.5)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShlokBajaj3433&theme=github_dark&utcOffset=5.5&v=2)
 
 ### 📊 Contribution Graph
 
-[![Shlok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShlokBajaj3433&theme=github-dark&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shlok's GitHub contribution graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShlokBajaj3433&theme=github_dark)](https://github.com/ShlokBajaj3433)
 
 </div>
 
@@ -123,9 +121,15 @@ I work on web apps and backend systems — from accessibility-first transit tool
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/swarajshelar23/Sentinel/pull/1) in [swarajshelar23/Sentinel](https://github.com/swarajshelar23/Sentinel)
+1. 🚀 Pushed code to [ShlokBajaj3433/Meal-subscription-service](https://github.com/ShlokBajaj3433/Meal-subscription-service) ([89023a3](https://github.com/ShlokBajaj3433/Meal-subscription-service/commit/89023a30c48aa87315523716e04438018a94e0e2))
+2. 🚀 Pushed code to [ShlokBajaj3433/Meal-subscription-service](https://github.com/ShlokBajaj3433/Meal-subscription-service) ([0aa9769](https://github.com/ShlokBajaj3433/Meal-subscription-service/commit/0aa97697a26c21c648a75a0797c48dd5f63323c3))
+3. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([b971ce2](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/b971ce2e48259fb5f826fe96fe76032fc23b9600))
+4. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([58a9726](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/58a97267b3567de73ac70b160a504ecc328c1d02))
+5. ✨ Created branch in [ShlokBajaj3433/Deep-Learning-12-Model-Architectures](https://github.com/ShlokBajaj3433/Deep-Learning-12-Model-Architectures)
+6. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([ff8af43](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/ff8af4385df3c1c677752c7bf6136f663f75aa5e))
+7. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([dd072c6](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/dd072c644b0836d7a3171eee93c86faf017dc066))
+8. 🚀 Pushed code to [ShlokBajaj3433/Student-Exam-portal](https://github.com/ShlokBajaj3433/Student-Exam-portal) ([400943e](https://github.com/ShlokBajaj3433/Student-Exam-portal/commit/400943e98ad93c4428f922666a2cc724b6fc8d75))
 <!--END_SECTION:activity-->
-> ℹ️ This section is updated automatically every 12 hours by [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity). Latest public GitHub events will appear here.
 
 ---
 ## 🤝 Connect with Me
