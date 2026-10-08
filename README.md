@@ -121,14 +121,15 @@ I work on web apps and backend systems — from accessibility-first transit tool
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed code to [ShlokBajaj3433/Meal-subscription-service](https://github.com/ShlokBajaj3433/Meal-subscription-service) ([89023a3](https://github.com/ShlokBajaj3433/Meal-subscription-service/commit/89023a30c48aa87315523716e04438018a94e0e2))
-2. 🚀 Pushed code to [ShlokBajaj3433/Meal-subscription-service](https://github.com/ShlokBajaj3433/Meal-subscription-service) ([0aa9769](https://github.com/ShlokBajaj3433/Meal-subscription-service/commit/0aa97697a26c21c648a75a0797c48dd5f63323c3))
-3. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([b971ce2](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/b971ce2e48259fb5f826fe96fe76032fc23b9600))
-4. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([58a9726](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/58a97267b3567de73ac70b160a504ecc328c1d02))
-5. ✨ Created branch in [ShlokBajaj3433/Deep-Learning-12-Model-Architectures](https://github.com/ShlokBajaj3433/Deep-Learning-12-Model-Architectures)
-6. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([ff8af43](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/ff8af4385df3c1c677752c7bf6136f663f75aa5e))
-7. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([dd072c6](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/dd072c644b0836d7a3171eee93c86faf017dc066))
-8. 🚀 Pushed code to [ShlokBajaj3433/Student-Exam-portal](https://github.com/ShlokBajaj3433/Student-Exam-portal) ([400943e](https://github.com/ShlokBajaj3433/Student-Exam-portal/commit/400943e98ad93c4428f922666a2cc724b6fc8d75))
+1. 🚀 Pushed code to [ShlokBajaj3433/ShlokBajaj3433](https://github.com/ShlokBajaj3433/ShlokBajaj3433) ([f0b7fd8](https://github.com/ShlokBajaj3433/ShlokBajaj3433/commit/f0b7fd8cb47f54f1cd601ec0621e2baf98c2783c))
+2. 🚀 Pushed code to [ShlokBajaj3433/Meal-subscription-service](https://github.com/ShlokBajaj3433/Meal-subscription-service) ([89023a3](https://github.com/ShlokBajaj3433/Meal-subscription-service/commit/89023a30c48aa87315523716e04438018a94e0e2))
+3. 🚀 Pushed code to [ShlokBajaj3433/Meal-subscription-service](https://github.com/ShlokBajaj3433/Meal-subscription-service) ([0aa9769](https://github.com/ShlokBajaj3433/Meal-subscription-service/commit/0aa97697a26c21c648a75a0797c48dd5f63323c3))
+4. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([b971ce2](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/b971ce2e48259fb5f826fe96fe76032fc23b9600))
+5. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([58a9726](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/58a97267b3567de73ac70b160a504ecc328c1d02))
+6. ✨ Created branch in [ShlokBajaj3433/Deep-Learning-12-Model-Architectures](https://github.com/ShlokBajaj3433/Deep-Learning-12-Model-Architectures)
+7. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([ff8af43](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/ff8af4385df3c1c677752c7bf6136f663f75aa5e))
+8. 🚀 Pushed code to [ShlokBajaj3433/Viva-Chat-Bot](https://github.com/ShlokBajaj3433/Viva-Chat-Bot) ([dd072c6](https://github.com/ShlokBajaj3433/Viva-Chat-Bot/commit/dd072c644b0836d7a3171eee93c86faf017dc066))
+9. 🚀 Pushed code to [ShlokBajaj3433/Student-Exam-portal](https://github.com/ShlokBajaj3433/Student-Exam-portal) ([400943e](https://github.com/ShlokBajaj3433/Student-Exam-portal/commit/400943e98ad93c4428f922666a2cc724b6fc8d75))
 <!--END_SECTION:activity-->
 
 ---
