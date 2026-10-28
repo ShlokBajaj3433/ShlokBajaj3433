@@ -121,16 +121,16 @@ I work on web apps and backend systems — from accessibility-first transit tool
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([e4ec5c5](https://github.com/kaustubhvanshiv/tracegraph/commit/e4ec5c59c35a07450a79d7a0c0d40010404dd2b9))
-2. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([8d44aa4](https://github.com/kaustubhvanshiv/tracegraph/commit/8d44aa481273410b8ff76b9ab1680f451c4c2f0b))
-3. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([4a2f788](https://github.com/kaustubhvanshiv/tracegraph/commit/4a2f788c184e37635a2a4b14d2d440f0bcf0b79b))
-4. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([5762416](https://github.com/kaustubhvanshiv/tracegraph/commit/57624168d214c55e1a83d94eec4f3b847c04d097))
-5. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([d5114bb](https://github.com/kaustubhvanshiv/tracegraph/commit/d5114bb2fff5213df50662f76e5bfcd2b9f5f698))
-6. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([6078595](https://github.com/kaustubhvanshiv/tracegraph/commit/6078595dfc35fa1b0e216a0eedcd1f879cc2392b))
-7. 🚀 Pushed code to [ShlokBajaj3433/Student-Exam-portal](https://github.com/ShlokBajaj3433/Student-Exam-portal) ([0c22d57](https://github.com/ShlokBajaj3433/Student-Exam-portal/commit/0c22d57e7bfdfedc6ed5eeca9247a5e025feb083))
-8. 🚀 Pushed code to [ShlokBajaj3433/Student-Exam-portal](https://github.com/ShlokBajaj3433/Student-Exam-portal) ([b432644](https://github.com/ShlokBajaj3433/Student-Exam-portal/commit/b432644072c5ad3591dae712992b7d5564086e32))
-9. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([9a655e6](https://github.com/kaustubhvanshiv/tracegraph/commit/9a655e66f94ccf7b6b23c9203e4e4b7773d0ea31))
-10. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([e6a8575](https://github.com/kaustubhvanshiv/tracegraph/commit/e6a8575a51ab0e6f7528645fe84224a6fb736734))
+1. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([2969673](https://github.com/kaustubhvanshiv/tracegraph/commit/296967329012afc2f512017d35545445e9663a57))
+2. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([bbbcb4e](https://github.com/kaustubhvanshiv/tracegraph/commit/bbbcb4e6ccfd4e5ce335acd16c04f9af821b2978))
+3. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([e4ec5c5](https://github.com/kaustubhvanshiv/tracegraph/commit/e4ec5c59c35a07450a79d7a0c0d40010404dd2b9))
+4. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([8d44aa4](https://github.com/kaustubhvanshiv/tracegraph/commit/8d44aa481273410b8ff76b9ab1680f451c4c2f0b))
+5. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([4a2f788](https://github.com/kaustubhvanshiv/tracegraph/commit/4a2f788c184e37635a2a4b14d2d440f0bcf0b79b))
+6. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([5762416](https://github.com/kaustubhvanshiv/tracegraph/commit/57624168d214c55e1a83d94eec4f3b847c04d097))
+7. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([d5114bb](https://github.com/kaustubhvanshiv/tracegraph/commit/d5114bb2fff5213df50662f76e5bfcd2b9f5f698))
+8. 🚀 Pushed code to [kaustubhvanshiv/tracegraph](https://github.com/kaustubhvanshiv/tracegraph) ([6078595](https://github.com/kaustubhvanshiv/tracegraph/commit/6078595dfc35fa1b0e216a0eedcd1f879cc2392b))
+9. 🚀 Pushed code to [ShlokBajaj3433/Student-Exam-portal](https://github.com/ShlokBajaj3433/Student-Exam-portal) ([0c22d57](https://github.com/ShlokBajaj3433/Student-Exam-portal/commit/0c22d57e7bfdfedc6ed5eeca9247a5e025feb083))
+10. 🚀 Pushed code to [ShlokBajaj3433/Student-Exam-portal](https://github.com/ShlokBajaj3433/Student-Exam-portal) ([b432644](https://github.com/ShlokBajaj3433/Student-Exam-portal/commit/b432644072c5ad3591dae712992b7d5564086e32))
 <!--END_SECTION:activity-->
 
 ---
